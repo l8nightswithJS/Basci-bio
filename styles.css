@@ -82,10 +82,13 @@ h2 {
 button {
     background-color: blue;
     padding: 1% 5% 1% 5%;
-    color: white;
 
 }
     
+button a {
+    color: white;
+    text-decoration: none;
+}
 
 
 img {
